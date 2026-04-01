@@ -16,3 +16,14 @@ Mapeamento de Incidentes: Realizei a contagem exata de quantos fretes tiveram pr
 Filtro de Gargalos: Criei uma base específica apenas com os casos de erro (Problema Logístico = 1) para mapear quais pontos de origem e de chegada concentram as maiores falhas e quais são as rotas mais críticas.
 
 Análise Comparativa (O Diferencial): Criei uma base específica apenas casos de sucesso (Problema Logístico = 0) para entender o que dá certo. Comparei as métricas, por exemplo, como rotas extremamente longas conseguem operar sem incidentes enquanto rotas curtas falham.
+
+#💡 Insights e Diagnóstico de Risco 
+🚨 Alerta de Falha Sistêmica: A análise permitiu isolar os pontos de origem e as rotas que mais geram prejuízos, direcionando onde deve intervir primeiro.
+
+🌍 Gargalos Geográficos: Os pontos de Busan e Shanghai concentram os maiores gargalos operacionais. A análise revelou que essa rota apresentam pontuação de risco geopolítico de média a alta, o que exige planos de contingência específicos para garantir a fluidez dessas rotas.
+
+🚚 O Mito da Distância: A análise comprovou que o peso da remessa e a distância percorrida possuem baixa correlação com os atrasos.
+
+🔍 O Fator Humano/Gestão: O verdadeiro "vilão" identificado foi a Confiabilidade da Transportadora. transportadoras com índices de performance abaixo de 0.80 apresentam chances significativamente maiores de gerar problemas logísticos, independente do trajeto.
+
+📦 Vulnerabilidade por Categoria: As falhas não se concentram em um único tipo de categoria, mas se distribuem de forma equilibrada entre todas as categorias. Isso indica um risco sistêmico, onde a fragilidade não está no produto em si, mas na estrutura logística que atende toda a operação.

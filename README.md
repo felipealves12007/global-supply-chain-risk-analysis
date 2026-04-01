@@ -17,7 +17,7 @@ Filtro de Gargalos: Criei uma base específica apenas com os casos de erro (Prob
 
 Análise Comparativa (O Diferencial): Criei uma base específica apenas casos de sucesso (Problema Logístico = 0) para entender o que dá certo. Comparei as métricas, por exemplo, como rotas extremamente longas conseguem operar sem incidentes enquanto rotas curtas falham.
 
-#💡 Insights e Diagnóstico de Risco 
+# 💡 Insights e Diagnóstico de Risco 
 🚨 Alerta de Falha Sistêmica: A análise permitiu isolar os pontos de origem e as rotas que mais geram prejuízos, direcionando onde deve intervir primeiro.
 
 🌍 Gargalos Geográficos: Os pontos de Busan e Shanghai concentram os maiores gargalos operacionais. A análise revelou que essa rota apresentam pontuação de risco geopolítico de média a alta, o que exige planos de contingência específicos para garantir a fluidez dessas rotas.

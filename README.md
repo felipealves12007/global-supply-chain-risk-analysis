@@ -27,3 +27,8 @@ Análise Comparativa (O Diferencial): Criei uma base específica apenas casos de
 🔍 O Fator Humano/Gestão: O verdadeiro "vilão" identificado foi a Confiabilidade da Transportadora. transportadoras com índices de performance abaixo de 0.80 apresentam chances significativamente maiores de gerar problemas logísticos, independente do trajeto.
 
 📦 Vulnerabilidade por Categoria: As falhas não se concentram em um único tipo de categoria, mas se distribuem de forma equilibrada entre todas as categorias. Isso indica um risco sistêmico, onde a fragilidade não está no produto em si, mas na estrutura logística que atende toda a operação.
+
+# 💻 Tecnologias e Ferramentas
+Linguagem: Python
+Manipulação de Dados: Pandas
+Visualização de Dados: Matplotlib

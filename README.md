@@ -15,4 +15,4 @@ Mapeamento de Incidentes: Realizei a contagem exata de quantos fretes tiveram pr
 
 Filtro de Gargalos: Criei uma base específica apenas com os casos de erro (Problema Logístico = 1) para mapear quais pontos de origem e de chegada concentram as maiores falhas e quais são as rotas mais críticas.
 
-Análise Comparativa (O Diferencial): Filtrei a base original apenas pelos casos de sucesso (sem problemas) para entender o que dá certo. Comparei médias de quilometragem e peso para descobrir, por exemplo, como rotas extremamente longas conseguem operar sem incidentes enquanto rotas curtas falham.
+Análise Comparativa (O Diferencial): Criei uma base específica apenas casos de sucesso (Problema Logístico = 0) para entender o que dá certo. Comparei as métricas, por exemplo, como rotas extremamente longas conseguem operar sem incidentes enquanto rotas curtas falham.

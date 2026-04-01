@@ -29,6 +29,8 @@ Análise Comparativa (O Diferencial): Criei uma base específica apenas casos de
 📦 Vulnerabilidade por Categoria: As falhas não se concentram em um único tipo de categoria, mas se distribuem de forma equilibrada entre todas as categorias. Isso indica um risco sistêmico, onde a fragilidade não está no produto em si, mas na estrutura logística que atende toda a operação.
 
 # 💻 Tecnologias e Ferramentas
--Linguagem: Python
--Manipulação de Dados: Pandas
--Visualização de Dados: Matplotlib
+Linguagem: Python
+
+Manipulação de Dados: Pandas
+
+Visualização de Dados: Matplotlib
